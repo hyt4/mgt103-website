@@ -113,7 +113,8 @@ section p {
   box-shadow: 0 4px 16px rgba(0,0,0,0.15);
 }
 
-.video-wrapper iframe {
+.video-wrapper iframe,
+.video-wrapper video {
   position: absolute;
   top: 0;
   left: 0;
